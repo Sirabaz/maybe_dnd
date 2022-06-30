@@ -2,10 +2,15 @@
 
 ## Heading
 [1. Description](https://github.com/Sirabaz/maybe_dnd/blob/master/project_0/readme.md#Description)
+
 [2. What's the case?](https://github.com/Sirabaz/maybe_dnd/blob/master/project_0/readme.md#What's-the-case?)
+
 [3. Short data info](https://github.com/Sirabaz/maybe_dnd/blob/master/project_0/readme.md#Short-data-info)
+
 [4. Work stages](https://github.com/Sirabaz/maybe_dnd/blob/master/project_0/readme.md#Work-stages)
+
 [5. Results](https://github.com/Sirabaz/maybe_dnd/blob/master/project_0/readme.md#Results)
+
 [6. Conclusion](https://github.com/Sirabaz/maybe_dnd/blob/master/project_0/readme.md#Conclusion)
 
 ### Description
