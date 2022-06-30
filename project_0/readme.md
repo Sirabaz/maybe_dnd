@@ -10,6 +10,7 @@
 
 ### Description
 Guess the randomly generated number, using as less attempts as possible.
+
 :arrow_up:[to headings](https://github.com/Sirabaz/maybe_dnd/blob/master/project_0/readme.md#Heading)
 
 ### What's the case?
@@ -27,4 +28,22 @@ Good Python coding
 
 ### Short data info
 ....
+
+:arrow_up:[to headings](https://github.com/Sirabaz/maybe_dnd/blob/master/project_0/readme.md#Heading)
+
+### Work stages  
+....
+
+:arrow_up:[to headings](https://github.com/Sirabaz/maybe_dnd/blob/master/project_0/readme.md#Heading)
+
+
+### Results:  
+....
+
+:arrow_up:[to headings](https://github.com/Sirabaz/maybe_dnd/blob/master/project_0/readme.md#Heading)
+
+
+### Conclusion:  
+....
+
 :arrow_up:[to headings](https://github.com/Sirabaz/maybe_dnd/blob/master/project_0/readme.md#Heading)
