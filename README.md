@@ -1,4 +1,4 @@
-# Well. These are my DS proijects from Skillfactory. DnD themed features coming soon
+# These are my DS projects from Skillfactory. 
 From the [Skillfactory Data Science course](https://skillfactory.ru/data-scientist)
 
 ## Projects
